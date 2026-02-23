@@ -1,0 +1,5 @@
+proteins = float(input("Введите массу белков в продуке (г): "))
+fats = float(input("Введите массу жиров в продукте (г): "))
+carbohydrates = float(input("Введите массу углеводов в продукте (г): "))
+cal = (proteins * 4) + (fats * 9) + (carbohydrates * 4)
+print(f"Калориййность блюда составляет: {cal}")
