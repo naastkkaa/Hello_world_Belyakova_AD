@@ -1,5 +1,0 @@
-device_name = input("Введите название прибора:")
-inventory_number = input("Инвентарный номер:")
-condition = input("Состояние (исправен/нет):")
-quantity = input("Введите количество:")
-print(f"{device_name}\t\t{inventory_number}\t\t{condition}\t\t{quantity}")
