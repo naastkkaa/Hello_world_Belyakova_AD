@@ -1,0 +1,46 @@
+ls -lha
+
+total 21M
+drwxrwxrwx 1 naastkkaa naastkkaa 4.0K Mar 13 11:05 .
+dr-xr-xr-x 1 naastkkaa naastkkaa 4.0K Aug 24  2025 ..
+drwxrwxrwx 1 naastkkaa naastkkaa 4.0K Feb 14 15:05 3D Objects
+drwxrwxrwx 1 naastkkaa naastkkaa 4.0K Aug 24  2025 AppData
+lrwxrwxrwx 1 naastkkaa naastkkaa   33 Aug 24  2025 Application Data -> /mnt/c/Users/User/AppData/Roaming
+drwxrwxrwx 1 naastkkaa naastkkaa 4.0K Aug 24  2025 Contacts
+lrwxrwxrwx 1 naastkkaa naastkkaa   61 Aug 24  2025 Cookies -> /mnt/c/Users/User/AppData/Local/Microsoft/Windows/INetCookies
+drwxrwxrwx 1 naastkkaa naastkkaa 4.0K Mar 13 10:13 Desktop
+drwxrwxrwx 1 naastkkaa naastkkaa 4.0K Feb 20 13:13 Documents
+drwxrwxrwx 1 naastkkaa naastkkaa 4.0K Mar 13 10:10 Downloads
+drwxrwxrwx 1 naastkkaa naastkkaa 4.0K Aug 24  2025 Favorites
+drwxrwxrwx 1 naastkkaa naastkkaa 4.0K Mar 11 22:01 GenomicData
+-rwxrwxrwx 1 naastkkaa naastkkaa  182 Feb  6 12:04 .gitconfig
+drwxrwxrwx 1 naastkkaa naastkkaa 4.0K Mar  7 14:11 .idlerc
+drwxrwxrwx 1 naastkkaa naastkkaa 4.0K Aug 24  2025 Links
+lrwxrwxrwx 1 naastkkaa naastkkaa   31 Aug 24  2025 Local Settings -> /mnt/c/Users/User/AppData/Local
+drwxrwxrwx 1 naastkkaa naastkkaa 4.0K Aug 24  2025 Music
+lrwxrwxrwx 1 naastkkaa naastkkaa   69 Aug 24  2025 NetHood -> /mnt/c/Users/User/AppData/Roaming/Microsoft/Windows/Network Shortcuts
+-rwxrwxrwx 1 naastkkaa naastkkaa  17M Mar 12 23:02 NTUSER.DAT
+-rwxrwxrwx 1 naastkkaa naastkkaa  64K Aug 24  2025 NTUSER.DAT{9bf13575-80e4-11f0-b926-ca7a21086ce3}.TM.blf
+-rwxrwxrwx 1 naastkkaa naastkkaa 512K Aug 24  2025 NTUSER.DAT{9bf13575-80e4-11f0-b926-ca7a21086ce3}.TMContainer00000000000000000001.regtrans-ms
+-rwxrwxrwx 1 naastkkaa naastkkaa 512K Aug 24  2025 NTUSER.DAT{9bf13575-80e4-11f0-b926-ca7a21086ce3}.TMContainer00000000000000000002.regtrans-ms
+-rwxrwxrwx 1 naastkkaa naastkkaa 896K Aug 24  2025 ntuser.dat.LOG1
+-rwxrwxrwx 1 naastkkaa naastkkaa 2.2M Aug 24  2025 ntuser.dat.LOG2
+-rwxrwxrwx 1 naastkkaa naastkkaa   20 Aug 24  2025 ntuser.ini
+drwxrwxrwx 1 naastkkaa naastkkaa 4.0K Aug 24  2025 OneDrive
+drwxrwxrwx 1 naastkkaa naastkkaa 4.0K Mar 13 10:45 Pictures
+lrwxrwxrwx 1 naastkkaa naastkkaa   69 Aug 24  2025 PrintHood -> /mnt/c/Users/User/AppData/Roaming/Microsoft/Windows/Printer Shortcuts
+lrwxrwxrwx 1 naastkkaa naastkkaa   58 Aug 24  2025 Recent -> /mnt/c/Users/User/AppData/Roaming/Microsoft/Windows/Recent
+drwxrwxrwx 1 naastkkaa naastkkaa 4.0K Aug 24  2025 Saved Games
+drwxrwxrwx 1 naastkkaa naastkkaa 4.0K Aug 24  2025 Searches
+lrwxrwxrwx 1 naastkkaa naastkkaa   58 Aug 24  2025 SendTo -> /mnt/c/Users/User/AppData/Roaming/Microsoft/Windows/SendTo
+-rwxrwxrwx 1 naastkkaa naastkkaa  123 Feb 21 14:12 task_2-1_1.py
+-rwxrwxrwx 1 naastkkaa naastkkaa  832 Mar 11 22:01 task_3-2_1.txt
+-rwxrwxrwx 1 naastkkaa naastkkaa  101 Mar 13 10:58 task_3-4_1_1.txt
+-rwxrwxrwx 1 naastkkaa naastkkaa    9 Mar 13 11:07 task_3-4_1_2.txt
+drwxrwxrwx 1 naastkkaa naastkkaa 4.0K Nov 14 14:48 Videos
+drwxrwxrwx 1 naastkkaa naastkkaa 4.0K Mar 12 23:02 .VirtualBox
+drwxrwxrwx 1 naastkkaa naastkkaa 4.0K Feb 20 11:25 VirtualBox VMs
+drwxrwxrwx 1 naastkkaa naastkkaa 4.0K Feb  6 12:19 .vscode
+lrwxrwxrwx 1 naastkkaa naastkkaa   62 Aug 24  2025 главное меню -> /mnt/c/Users/User/AppData/Roaming/Microsoft/Windows/Start Menu
+lrwxrwxrwx 1 naastkkaa naastkkaa   27 Aug 24  2025 Мои документы -> /mnt/c/Users/User/Documents
+lrwxrwxrwx 1 naastkkaa naastkkaa   61 Aug 24  2025 Шаблоны -> /mnt/c/Users/User/AppData/Roaming/Microsoft/Windows/Templates
